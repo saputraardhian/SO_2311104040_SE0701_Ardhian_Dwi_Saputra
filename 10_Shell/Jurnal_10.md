@@ -164,7 +164,7 @@ shell/shprototypes.h
 
 System call `chname()` berhasil ditambahkan ke dalam kernel Xinu dan command shell `namecmd` berhasil dibuat serta dapat dijalankan melalui shell. Integrasi antara shell dan kernel berhasil dilakukan sehingga command baru dapat memanfaatkan layanan system call yang telah dibuat.
 
-![Hasil Pengujian Namecmd](hasil.png)
+![Hasil Pengujian Namecmd](images/hasil.png)
 ---
 
 ## Kesimpulan
