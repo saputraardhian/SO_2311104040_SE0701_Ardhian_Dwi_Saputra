@@ -1,5 +1,5 @@
 # <h1 align="center">Laporan Praktikum Modul XI <br> Memori Xinu</h1>
-<p align="center">Fajar Budiawan - 2311104039</p>
+<p align="center">Ardhian Dwi Saputra - 2311104040</p>
 
 ## Dasar Teori
 
