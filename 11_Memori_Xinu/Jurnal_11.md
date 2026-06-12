@@ -14,8 +14,8 @@ Buatlah perintah baru bernama freememory yang memiliki dua fungsi berikut:
 
 a. menampilkan seluruh free memory block yang tercatat dalam free memory list pada xinu
 
-![alt text](Images1.png)
-![alt text](Images2.png) 
+![Hasil 1](Images/Images1.png)
+![Hasil 2](Images/Images2.png)
 
 b. Analisis
 
